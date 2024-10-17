@@ -11,6 +11,6 @@ const dbObj = {
 };
 
 config.MONGO_URL = 'mongodb://0.0.0.0:27017/';
-config.JWT_SECRET = 'UY1zsjMrP39frKKfnVCHd8UhyNFz1CeY2olqunOpG';
+config.JWT_SECRET = 'secret';
 
 export default config;
