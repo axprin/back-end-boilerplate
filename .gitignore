@@ -1,0 +1,6 @@
+node_modules/
+dist/
+README.md
+src/.DS_Store
+.idea/*
+package-lock.json
